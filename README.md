@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deanbishop
 - 👀 I’m interested in anything that is a puzzle for my mind
-- 🌱 I’m currently learning how to code in HTML, CSS, and JavaScript... wish me luck
-- 💞️ I’m looking to collaborate on mt learning experience and future projects
+- 🌱 I’m currently learning various coding languages
+- 💞️ I’m looking to collaborate on my learning experience and future projects
 - 📫 How to reach me dean.ua@gmail.com
 
 <!---
